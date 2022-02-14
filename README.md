@@ -23,13 +23,13 @@ Technology Used :
 
 ---
 <div>
-<h2 align="center">°Calculation Details :</h2>
+<h2 align="center">°Processing :</h2>
 <img src="sorting_process.png" alt="Processing">
 </div>
 <br/>
 
 ---
 <div>
-<h2 align="center">°Error if any field left empty :</h2>
+<h2 align="center">°Elements Sorted :</h2>
 <img src="sorted.png" alt="Sorted">
 </div>
